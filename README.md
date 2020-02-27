@@ -1,5 +1,4 @@
-# Multilayer-Perceptron-in-Keras
-## MLP in Keras
+# Multilayer Perceptron in Keras
 
 ## The Jupyter Notebook describes the Keras Model Life Cycle:
 1. Define the network.
